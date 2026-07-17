@@ -233,7 +233,7 @@ export default function App() {
       {step === 3 && (
         <div style={styles.card}>
           <img src="/image/end.gif" alt="Party" style={styles.imageStyle} />
-          <h1 style={styles.title}>gph เป็นแฟนกันแล้วนะ</h1>
+          <h1 style={styles.title}>เย้ เป็นแฟนกันแล้วนะ</h1>
           <p style={styles.finalParagraph}>
            ขอบคุณน้าที่เลือกเค้า เค้าสัญญาว่าจะเป็นแฟนที่ดีของเธอ<br /> จะทำให้เธอมีความสุขที่สุดเลย<br />
           </p>
