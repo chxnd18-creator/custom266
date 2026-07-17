@@ -193,7 +193,7 @@ export default function App() {
       {step === 1 && (
         <div style={styles.card}>
           <img src="/image/hello.gif" alt="Wave Hand" style={styles.imageStyle} />
-          <h1 style={styles.title}>เทอเค้ามีอะไรจะบอก</h1>
+          <h1 style={styles.title}>เธอๆ มีอะไรจะถามแหละ</h1>
           <p style={{ fontSize: '14px', color: '#9ca3af', margin: '8px 0 0 0' }}>กดดูหน่อยสิ</p>
           <button 
             onClick={() => setStep(2)} 
